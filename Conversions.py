@@ -1,3 +1,7 @@
+# Michael Williamson
+# Conversions: Distance and Weight
+# 7/23/2020
+
 convertKiloToPounds: float = 2.20462
 convertMileToKilos: float = 1.60934
 

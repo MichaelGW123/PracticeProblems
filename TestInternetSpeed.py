@@ -1,3 +1,7 @@
+# Michael Williamson
+# Speed Test app
+# 10/13/2020
+
 import speedtest
 
 test = speedtest.Speedtest() 

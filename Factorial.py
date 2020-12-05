@@ -1,3 +1,7 @@
+# Michael Williamson
+# Factorial
+# 7/23/2020
+
 number = input("What number would you like the factorial of? ")
 
 

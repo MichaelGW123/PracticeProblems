@@ -1,3 +1,7 @@
+# Michael Williamson
+# Palindrome
+# 7/23/2020
+
 userInput = input("What word, phrase, or number do you wish to check? ")
 
 
